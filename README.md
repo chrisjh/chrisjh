@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Chris 👋
 
-<!--
-**chrisjh/chrisjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm the co-founder and CTO at [Velvet](https://www.usevelvet.com).
+> Previously: founder **@Prioritzed**, PM **@MongoDB**, SWE **@Pebble**
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Velvet, we're building low-level infrastructure for AI driven products.
+
+Develop & deploy AI with confidence using our AI gateway.
+
+Analyze, evaluate, & monitor AI features in production. Just two lines of code to get started.
+
+Get in touch if you want to try out [Velvet](https://www.usevelvet.com)!
